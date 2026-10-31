@@ -1,0 +1,6 @@
+# Permite que mecanismos de busca rastreiem o site público.
+User-agent: *
+Allow: /
+
+# Domínio canônico utilizado pelo projeto. Confirme antes da publicação.
+Sitemap: https://baraodainformatica.com.br/sitemap.xml
